@@ -1,4 +1,4 @@
-## 2024 Intel AI Global Impact Festival - Global Winner (https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/winners2024.html](https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/winners2024.html#:~:text=and%20mentorship%20opportunities.-,Chong%20Yao%20Ong,-%2C%20Zi%20Xuan%20Mok)
+## 2024 Intel AI Global Impact Festival - Global Winner (https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/winners2024.html#:~:text=and%20mentorship%20opportunities.-,Chong%20Yao%20Ong,-%2C%20Zi%20Xuan%20Mok)
 ## 2023 STEM Innovation Showcase - Best in Automation & AI
 
 # Code & logic by Ong Chong Yao
@@ -25,4 +25,5 @@ Common bug:
 "cap = cv2.VideoCapture(0)"
 
 Need to change the camera index to the correct one.
+
 
